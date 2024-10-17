@@ -1,12 +1,16 @@
 # ルックバック (Look back)
 
+## Dotfiles
 - OS - Debian 12
 - DE - KDE/Plasma
 - Shell - Bash 
 - Terminal - Alacritty
 - File Manager - LF
-- Text Editor - Neovim/Vim/Vscode
+- Text Editor - Neovim
 - Document Viewer - Ocular
-- Media Player - 
-- Terminal & Neovim Theme - 
-- Terminal & Neovim font -
+- Media Player - N/a
+- Terminal & Neovim Theme - N/a 
+- Terminal & Neovim font - N/a
+
+## Preview
+
