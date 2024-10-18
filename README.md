@@ -4,7 +4,7 @@
 - OS - Debian 12
 - DE - KDE/Plasma
 - Shell - Bash 
-- Terminal - Alacritty
+- Terminal - Yakuake
 - File Manager - LF
 - Text Editor - Neovim
 - Document Viewer - Ocular
