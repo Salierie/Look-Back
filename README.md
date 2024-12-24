@@ -1,17 +1,17 @@
 # ルックバック (Look back)
 
 ## Dotfiles
-- OS - Debian 12
-- DE - KDE/Plasma
+- OS - ARCH LINUX
+- DWM - i3wm
+- Status bar - 
 - Shell - Bash 
-- Terminal - Tabby
-- File Manager - LF
+- Terminal - Kitty
+- File Manager - Ranger
 - Text Editor - Neovim
 - Document Viewer - Zathura
 - Media Player - Sayonara
 - Terminal & Neovim Theme - sainnhe/ gruvbox-material 
-- Terminal & Neovim font - JetBrains Mono Nerd Font
+- Terminal & Neovim font - MesloMGS Nerd Mono Font
 
 ## Preview
 
-lol
